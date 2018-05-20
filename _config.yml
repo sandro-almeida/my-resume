@@ -1,6 +1,6 @@
 # Site settings
-title: "Another training Resume Template"
-description: "This is a conflicted line description."
+title: "Test Resume Template"
+description: "A resume template for training purposes."
 
 # Build settings
 markdown: kramdown
